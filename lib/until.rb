@@ -1,8 +1,12 @@
 
 
-phrase = "Windgardium Leviosa"
+
 def using_until
-  puts "Wingardium Leviosa" until 0 < 10
   levitation_force = 6 + 1 
+  puts "Wingardium Leviosa" 
+  puts "Wingardium Leviosa"
+  puts "Wingardium Leviosa"
+  puts "Wingardium Leviosa"
+  
 
 end
